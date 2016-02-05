@@ -15,7 +15,7 @@ under Windows 64 bit
 on any platform:
 
 1) install the Go language
-2) create a workspace directory for go
+2) create a workspace directory for Go
 3) set the PATH environment variable to the full path of the workspace directory
 4) install git and make sure it is in your path
 5) open a console ( command prompt ) window and type:
