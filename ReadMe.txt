@@ -30,9 +30,23 @@ usage:
 
 #######################################
 
+simple way to run it:
+
+------------------
+
+copy the xml file into the program's directory,
+rename it players.xml and then run the program by clicking on it
+the R data table called players.txt will be created in the program's directory
+
+------------------
+
+complicated way to run it:
+
 1) open a console ( command prompt ) window
 
-2) run parsexml in one of the following ways:
+2) cd to the directory where parsexml.exe is ( or add this directory to your path )
+
+3) run parsexml in one of the following ways:
 
 a) parsexml path/to/xml name.xml
 
@@ -46,8 +60,3 @@ c) parsexml
 
 this will parse players.xml in the working directory of the program
 and create players.txt in the working directory of the program
-
-------------------
-
-hint: simplest way is to copy the xml file into the program's directory,
-rename it players.xml and then run the program by clicking on it
